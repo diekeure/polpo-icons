@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'polpo';
+    src:
+        url('fonts/polpo.ttf?my4p9') format('truetype'),
+        url('fonts/polpo.woff?my4p9') format('woff'),
+        url('fonts/polpo.svg?my4p9#polpo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="polpo-"], [class*=" polpo-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'polpo' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.polpo-at-sign:before {
+    content: "\e900";
+}
+.polpo-split-arrow:before {
+    content: "\e901";
+}
+.polpo-increase:before {
+    content: "\e902";
+}
+.polpo-alert:before {
+    content: "\e903";
+}
+.polpo-power-on:before {
+    content: "\e904";
+}
+.polpo-creditcard:before {
+    content: "\e905";
+}
+.polpo-marker:before {
+    content: "\e906";
+}
+.polpo-pin:before {
+    content: "\e906";
+}
+.polpo-bundle:before {
+    content: "\e907";
+}
+.polpo-open:before {
+    content: "\e908";
+}
+.polpo-student:before {
+    content: "\e909";
+}
+.polpo-play:before {
+    content: "\e90a";
+}
+.polpo-add-user:before {
+    content: "\e90b";
+}
+.polpo-call:before {
+    content: "\e90c";
+}
+.polpo-laptop-text:before {
+    content: "\e90d";
+}
+.polpo-balance:before {
+    content: "\e90e";
+}
+.polpo-checklist:before {
+    content: "\e90f";
+}
+.polpo-favorite:before {
+    content: "\e910";
+}
+.polpo-share:before {
+    content: "\e911";
+}
+.polpo-phone:before {
+    content: "\e912";
+}
+.polpo-laptop-images:before {
+    content: "\e913";
+}
+.polpo-clock:before {
+    content: "\e914";
+}
+.polpo-task:before {
+    content: "\e915";
+}
+.polpo-school:before {
+    content: "\e916";
+}
+.polpo-university:before {
+    content: "\e916";
+}
+.polpo-magnifier:before {
+    content: "\e917";
+}
+.polpo-search:before {
+    content: "\e917";
+}
+.polpo-print:before {
+    content: "\e918";
+}
+.polpo-laptop-content:before {
+    content: "\e919";
+}
+.polpo-code:before {
+    content: "\e91a";
+}
+.polpo-edit:before {
+    content: "\e91b";
+}
+.polpo-presentation:before {
+    content: "\e91c";
+}
+.polpo-caret:before {
+    content: "\e91d";
+}
+.polpo-polpo:before {
+    content: "\e91e";
+}
+.polpo-die-keure:before {
+    content: "\e91f";
+}
+.polpo-facebook:before {
+    content: "\e920";
+}
+.polpo-twitter:before {
+    content: "\e921";
+}
+.polpo-pinterest:before {
+    content: "\e922";
+}
+
