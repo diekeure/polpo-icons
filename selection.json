@@ -916,7 +916,8 @@
 				"id": 3,
 				"name": "die-keure",
 				"prevSize": 64,
-				"code": 59679
+				"code": 59679,
+				"ligatures": "die Keure"
 			},
 			"setIdx": 0,
 			"setId": 1,
@@ -1037,10 +1038,11 @@
 			"classSelector": ".icon"
 		},
 		"historySize": 100,
-		"showCodes": true,
+		"showCodes": false,
 		"gridSize": 16,
 		"quickUsageToken": {
 			"Polpo": "OWQ0NWY5YWM3MmZhNGMxYzA3MDgzOTc0ODJmNGYwMzkjMSMxNDY0Nzc5MjIyIyMj"
-		}
+		},
+		"showLiga": true
 	}
 }
