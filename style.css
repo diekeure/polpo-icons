@@ -30,6 +30,8 @@
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
+    font-variant-ligatures: discretionary-ligatures;
 }
 
 .polpo-at-sign:before {
