@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'polpo';
     src:
-        url('fonts/polpo.ttf?xjtq4h') format('truetype'),
-        url('fonts/polpo.woff?xjtq4h') format('woff'),
-        url('fonts/polpo.svg?xjtq4h#polpo') format('svg');
+        url('fonts/polpo.ttf?pxvt9g') format('truetype'),
+        url('fonts/polpo.woff?pxvt9g') format('woff'),
+        url('fonts/polpo.svg?pxvt9g#polpo') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,12 +26,12 @@
     -ms-font-feature-settings: "liga" 1;
     -o-font-feature-settings: "liga";
     font-feature-settings: "liga";
+    -webkit-font-variant-ligatures: discretionary-ligatures;
+    font-variant-ligatures: discretionary-ligatures;
 
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-
-    font-variant-ligatures: discretionary-ligatures;
 }
 
 .polpo-at-sign:before {

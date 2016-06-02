@@ -25,7 +25,7 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
-            'die Keure': '&#xe91f;',
+            'die Keure': '&#xe91f;',
           '0': 0
         };
         delete icons['0'];
