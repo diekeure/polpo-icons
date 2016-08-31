@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?2m6jcn') format('truetype'),
-    url('fonts/polpo.woff?2m6jcn') format('woff'),
-    url('fonts/polpo.svg?2m6jcn#polpo') format('svg');
+    url('fonts/polpo.ttf?cxc8gq') format('truetype'),
+    url('fonts/polpo.woff?cxc8gq') format('woff'),
+    url('fonts/polpo.svg?cxc8gq#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,6 +33,66 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.polpo-biologie-lg:before {
+  content: "\e951";
+}
+.polpo-duits-lg:before {
+  content: "\e952";
+}
+.polpo-engels-lg:before {
+  content: "\e953";
+}
+.polpo-frans-lg:before {
+  content: "\e954";
+}
+.polpo-fysica-lg:before {
+  content: "\e955";
+}
+.polpo-geschiedenis-lg:before {
+  content: "\e956";
+}
+.polpo-godsdienst-lg:before {
+  content: "\e957";
+}
+.polpo-informatica-lg:before {
+  content: "\e958";
+}
+.polpo-integraleopdrachten-lg:before {
+  content: "\e959";
+}
+.polpo-lichamelijkeopvoeding-lg:before {
+  content: "\e95a";
+}
+.polpo-maatschappelijkevorming-lg:before {
+  content: "\e95b";
+}
+.polpo-muzikaleopvoeding-lg:before {
+  content: "\e95c";
+}
+.polpo-natuurwetenschappen-lg:before {
+  content: "\e95d";
+}
+.polpo-nederlands-lg:before {
+  content: "\e95e";
+}
+.polpo-sociaaleconomischeinitiatie-lg:before {
+  content: "\e95f";
+}
+.polpo-spaans-lg:before {
+  content: "\e960";
+}
+.polpo-aardrijkskunde-lg:before {
+  content: "\e961";
+}
+.polpo-techniek-lg:before {
+  content: "\e962";
+}
+.polpo-wiskunde-lg:before {
+  content: "\e963";
+}
+.polpo-ww-lg:before {
+  content: "\e964";
+}
 .polpo-verwijder:before {
   content: "\e950";
 }
