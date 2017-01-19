@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?8iunqp') format('truetype'),
-    url('fonts/polpo.woff?8iunqp') format('woff'),
-    url('fonts/polpo.svg?8iunqp#polpo') format('svg');
+    url('fonts/polpo.ttf?uk4k4t') format('truetype'),
+    url('fonts/polpo.woff?uk4k4t') format('woff'),
+    url('fonts/polpo.svg?uk4k4t#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -112,6 +112,9 @@
   content: "\e938";
 }
 .polpo-book:before {
+  content: "\e965";
+}
+.polpo-book-not:before {
   content: "\e939";
 }
 .polpo-favorites2:before {
