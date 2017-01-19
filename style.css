@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?4lfdvx') format('truetype'),
-    url('fonts/polpo.woff?4lfdvx') format('woff'),
-    url('fonts/polpo.svg?4lfdvx#polpo') format('svg');
+    url('fonts/polpo.ttf?8iunqp') format('truetype'),
+    url('fonts/polpo.woff?8iunqp') format('woff'),
+    url('fonts/polpo.svg?8iunqp#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,21 +33,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.polpo-delete:before {
-  content: "\e93d";
-}
-.polpo-checkmark:before {
-  content: "\e966";
-}
-.polpo-hourglass:before {
-  content: "\e967";
-}
-.polpo-lock:before {
-  content: "\e968";
-}
-.polpo-user-exception:before {
-  content: "\e965";
-}
 .polpo-biologie-lg:before {
   content: "\e951";
 }
@@ -109,7 +94,7 @@
   content: "\e964";
 }
 .polpo-verwijder:before {
-  content: "\e969";
+  content: "\e950";
 }
 .polpo-lesmateriaal:before {
   content: "\e94f";
@@ -139,7 +124,7 @@
   content: "\e93c";
 }
 .polpo-klok:before {
-  content: "\e950";
+  content: "\e93d";
 }
 .polpo-clock2:before {
   content: "\e93e";
