@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?uk4k4t') format('truetype'),
-    url('fonts/polpo.woff?uk4k4t') format('woff'),
-    url('fonts/polpo.svg?uk4k4t#polpo') format('svg');
+    url('fonts/polpo.ttf?g0ra2s') format('truetype'),
+    url('fonts/polpo.woff?g0ra2s') format('woff'),
+    url('fonts/polpo.svg?g0ra2s#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,6 +33,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.polpo-checkmark:before {
+  content: "\e966";
+}
+.polpo-delete:before {
+  content: "\e967";
+}
+.polpo-user-exception:before {
+  content: "\e968";
+}
+.polpo-hourglass:before {
+  content: "\e969";
+}
+.polpo-lock:before {
+  content: "\e96a";
+}
 .polpo-biologie-lg:before {
   content: "\e951";
 }
