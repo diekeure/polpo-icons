@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?g0ra2s') format('truetype'),
-    url('fonts/polpo.woff?g0ra2s') format('woff'),
-    url('fonts/polpo.svg?g0ra2s#polpo') format('svg');
+    url('fonts/polpo.ttf?wavqt2') format('truetype'),
+    url('fonts/polpo.woff?wavqt2') format('woff'),
+    url('fonts/polpo.svg?wavqt2#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -40,13 +40,13 @@
   content: "\e967";
 }
 .polpo-user-exception:before {
-  content: "\e968";
-}
-.polpo-hourglass:before {
   content: "\e969";
 }
+.polpo-hourglass:before {
+  content: "\e96b";
+}
 .polpo-lock:before {
-  content: "\e96a";
+  content: "\e96c";
 }
 .polpo-biologie-lg:before {
   content: "\e951";
@@ -362,5 +362,11 @@
 }
 .polpo-pinterest:before {
   content: "\e922";
+}
+.polpo-s_logo_sso_button_orange_22x36:before {
+  content: "\e968";
+}
+.polpo-s_logo_sso_button_orange_22x362:before {
+  content: "\e96a";
 }
 
