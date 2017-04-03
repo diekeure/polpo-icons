@@ -31,7 +31,7 @@
       "properties": {
         "order": 101,
         "id": 108,
-        "name": "user-add",
+        "name": "user-del",
         "prevSize": 64,
         "code": 59757
       },
@@ -70,7 +70,7 @@
       "properties": {
         "order": 102,
         "id": 107,
-        "name": "user-del",
+        "name": "user-add",
         "prevSize": 64,
         "code": 59758
       },

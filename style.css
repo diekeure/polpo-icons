@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?br1733') format('truetype'),
-    url('fonts/polpo.woff?br1733') format('woff'),
-    url('fonts/polpo.svg?br1733#polpo') format('svg');
+    url('fonts/polpo.ttf?7xmgr2') format('truetype'),
+    url('fonts/polpo.woff?7xmgr2') format('woff'),
+    url('fonts/polpo.svg?7xmgr2#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -33,10 +33,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.polpo-user-add:before {
+.polpo-user-del:before {
   content: "\e96d";
 }
-.polpo-user-del:before {
+.polpo-user-add:before {
   content: "\e96e";
 }
 .polpo-checkmark:before {
