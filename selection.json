@@ -4,6 +4,83 @@
     {
       "icon": {
         "paths": [
+          "M793.377 962.56l-731.937-731.937c-61.44-61.44-88.153-134.456-26.713-195.896v0c61.44-61.44 134.456-34.727 195.896 26.713l731.937 731.937c61.44 61.44 89.043 134.456 26.713 195.896v0c-61.44 61.44-134.456 34.727-195.896-26.713z",
+          "M962.56 230.623l-731.937 731.937c-61.44 61.44-134.456 89.043-195.896 26.713v0c-61.44-61.44-34.727-134.456 26.713-195.896l731.937-731.937c61.44-61.44 134.456-89.043 195.896-26.713v0c61.44 61.44 34.727 134.456-26.713 195.896z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "user-add"
+        ],
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 101,
+        "id": 108,
+        "name": "user-add",
+        "prevSize": 64,
+        "code": 59757
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1337.933 863.119c-55.584-25.443-113.517-45.798-171.45-66.153-69.676-24.269-97.859-75.547-63.021-141.7 50.561-96.587 80.569-210.858 81.417-332.059 0.174-3.291 0.272-6.825 0.272-10.382 0-100.519-78.444-182.716-177.455-188.714-126.179-11.377-231.476 58.299-235.39 163.987-1.015 13.573-1.594 29.401-1.594 45.363 0 114.173 29.607 221.431 81.562 314.515 10.223 12.652 17.379 32.735 17.379 54.489 0 46.36-32.498 85.13-75.955 94.772-73.8 24.116-132.354 47.184-189.388 73.019-73.129 34.355-80.175 51.187-72.346 154.135h900.306c1.957-105.297-4.306-119.78-94.336-161.272zM1350.067 772.306h-70.459l-4.697-88.465h-89.248v-75.156l90.422-4.306v-86.899h73.59l4.697 89.248h88.073v73.199l-88.073 3.914z",
+          "M330.373 0h6.263v185.541c197.422 6.557 354.972 168.173 354.972 366.587 0 53.622-11.507 104.556-32.186 150.468l-5.33-2.315c-4.306-7.046-9.003-13.7-12.917-21.138-33.635-64.431-83.812-116.243-144.975-150.931-47.531-27.437-101.925-44.102-159.978-46.717l-0.759 183.948-335.462-335.853z"
+        ],
+        "attrs": [
+          {},
+          {}
+        ],
+        "width": 1443,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "user-del"
+        ],
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 102,
+        "id": 107,
+        "name": "user-del",
+        "prevSize": 64,
+        "code": 59758
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
           "M1020.988 286.118l-177.694-177.694-463.812 460.8-201.788-201.788-180.706 180.706 379.482 379.482 3.012-3.012 3.012 3.012z"
         ],
         "attrs": [
@@ -14,7 +91,12 @@
         "tags": [
           "checkmark"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -27,8 +109,8 @@
         "code": 59750
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 0
+      "setId": 1,
+      "iconIdx": 2
     },
     {
       "icon": {
@@ -43,7 +125,12 @@
         "tags": [
           "delete"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -56,8 +143,8 @@
         "code": 59751
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 1
+      "setId": 1,
+      "iconIdx": 3
     },
     {
       "icon": {
@@ -78,7 +165,15 @@
         "tags": [
           "exception"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -94,8 +189,8 @@
         "code": 59753
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 2
+      "setId": 1,
+      "iconIdx": 4
     },
     {
       "icon": {
@@ -114,7 +209,14 @@
         "tags": [
           "hourglass"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -129,8 +231,8 @@
         "code": 59755
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 3
+      "setId": 1,
+      "iconIdx": 5
     },
     {
       "icon": {
@@ -145,7 +247,12 @@
         "tags": [
           "lock"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -158,8 +265,8 @@
         "code": 59756
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 4
+      "setId": 1,
+      "iconIdx": 6
     },
     {
       "icon": {
@@ -181,7 +288,15 @@
         "tags": [
           "biologie-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -197,8 +312,8 @@
         "code": 59729
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 5
+      "setId": 1,
+      "iconIdx": 7
     },
     {
       "icon": {
@@ -234,7 +349,22 @@
         "tags": [
           "duits-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -257,8 +387,8 @@
         "code": 59730
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 6
+      "setId": 1,
+      "iconIdx": 8
     },
     {
       "icon": {
@@ -298,7 +428,24 @@
         "tags": [
           "engels-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -323,8 +470,8 @@
         "code": 59731
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 7
+      "setId": 1,
+      "iconIdx": 9
     },
     {
       "icon": {
@@ -342,7 +489,13 @@
         "tags": [
           "frans-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -356,8 +509,8 @@
         "code": 59732
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 8
+      "setId": 1,
+      "iconIdx": 10
     },
     {
       "icon": {
@@ -375,7 +528,13 @@
         "tags": [
           "fysica-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -389,8 +548,8 @@
         "code": 59733
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 9
+      "setId": 1,
+      "iconIdx": 11
     },
     {
       "icon": {
@@ -424,7 +583,21 @@
         "tags": [
           "geschiedenis-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -446,8 +619,8 @@
         "code": 59734
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 10
+      "setId": 1,
+      "iconIdx": 12
     },
     {
       "icon": {
@@ -463,7 +636,12 @@
         "tags": [
           "godsdienst-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -476,8 +654,8 @@
         "code": 59735
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 11
+      "setId": 1,
+      "iconIdx": 13
     },
     {
       "icon": {
@@ -493,7 +671,12 @@
         "tags": [
           "informatica-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -506,8 +689,8 @@
         "code": 59736
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 12
+      "setId": 1,
+      "iconIdx": 14
     },
     {
       "icon": {
@@ -529,7 +712,15 @@
         "tags": [
           "integraleopdrachten-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -545,8 +736,8 @@
         "code": 59737
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 13
+      "setId": 1,
+      "iconIdx": 15
     },
     {
       "icon": {
@@ -566,7 +757,14 @@
         "tags": [
           "lichamelijkeopvoeding-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -581,8 +779,8 @@
         "code": 59738
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 14
+      "setId": 1,
+      "iconIdx": 16
     },
     {
       "icon": {
@@ -620,7 +818,23 @@
         "tags": [
           "maatschappelijkevorming-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -644,8 +858,8 @@
         "code": 59739
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 15
+      "setId": 1,
+      "iconIdx": 17
     },
     {
       "icon": {
@@ -661,7 +875,12 @@
         "tags": [
           "muzikaleopvoeding-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -674,8 +893,8 @@
         "code": 59740
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 16
+      "setId": 1,
+      "iconIdx": 18
     },
     {
       "icon": {
@@ -715,7 +934,24 @@
         "tags": [
           "natuurwetenschappen-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -740,8 +976,8 @@
         "code": 59741
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 17
+      "setId": 1,
+      "iconIdx": 19
     },
     {
       "icon": {
@@ -765,7 +1001,16 @@
         "tags": [
           "nederlands-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -782,8 +1027,8 @@
         "code": 59742
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 18
+      "setId": 1,
+      "iconIdx": 20
     },
     {
       "icon": {
@@ -805,7 +1050,15 @@
         "tags": [
           "sociaaleconomischeinitiatie-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -821,8 +1074,8 @@
         "code": 59743
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 19
+      "setId": 1,
+      "iconIdx": 21
     },
     {
       "icon": {
@@ -838,7 +1091,12 @@
         "tags": [
           "spaans-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -851,8 +1109,8 @@
         "code": 59744
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 20
+      "setId": 1,
+      "iconIdx": 22
     },
     {
       "icon": {
@@ -870,7 +1128,13 @@
         "tags": [
           "aardrijkskunde-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -884,8 +1148,8 @@
         "code": 59745
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 21
+      "setId": 1,
+      "iconIdx": 23
     },
     {
       "icon": {
@@ -901,7 +1165,12 @@
         "tags": [
           "techniek-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -914,8 +1183,8 @@
         "code": 59746
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 22
+      "setId": 1,
+      "iconIdx": 24
     },
     {
       "icon": {
@@ -931,7 +1200,12 @@
         "tags": [
           "wiskunde-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -944,8 +1218,8 @@
         "code": 59747
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 23
+      "setId": 1,
+      "iconIdx": 25
     },
     {
       "icon": {
@@ -963,7 +1237,13 @@
         "tags": [
           "ww-lg"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -977,8 +1257,8 @@
         "code": 59748
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 24
+      "setId": 1,
+      "iconIdx": 26
     },
     {
       "icon": {
@@ -993,7 +1273,12 @@
         "tags": [
           "verwijder"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1006,8 +1291,8 @@
         "code": 59728
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 25
+      "setId": 1,
+      "iconIdx": 27
     },
     {
       "icon": {
@@ -1026,7 +1311,14 @@
         "tags": [
           "lesmateriaal"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1041,8 +1333,8 @@
         "code": 59727
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 26
+      "setId": 1,
+      "iconIdx": 28
     },
     {
       "icon": {
@@ -1057,7 +1349,12 @@
         "tags": [
           "filter"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1070,8 +1367,8 @@
         "code": 59725
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 27
+      "setId": 1,
+      "iconIdx": 29
     },
     {
       "icon": {
@@ -1086,7 +1383,12 @@
         "tags": [
           "toevoegen"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1099,8 +1401,8 @@
         "code": 59726
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 28
+      "setId": 1,
+      "iconIdx": 30
     },
     {
       "icon": {
@@ -1123,7 +1425,16 @@
         "tags": [
           "archief"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1140,8 +1451,8 @@
         "code": 59703
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 29
+      "setId": 1,
+      "iconIdx": 31
     },
     {
       "icon": {
@@ -1194,7 +1505,31 @@
         "tags": [
           "bundels"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1226,8 +1561,8 @@
         "code": 59704
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 30
+      "setId": 1,
+      "iconIdx": 32
     },
     {
       "icon": {
@@ -1242,7 +1577,12 @@
         "tags": [
           "deelvanboek"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1255,8 +1595,8 @@
         "code": 59749
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 31
+      "setId": 1,
+      "iconIdx": 33
     },
     {
       "icon": {
@@ -1271,7 +1611,12 @@
         "tags": [
           "deelvanboek"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1284,8 +1629,8 @@
         "code": 59705
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 32
+      "setId": 1,
+      "iconIdx": 34
     },
     {
       "icon": {
@@ -1302,7 +1647,13 @@
         "tags": [
           "favoriet"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1316,8 +1667,8 @@
         "code": 59706
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 33
+      "setId": 1,
+      "iconIdx": 35
     },
     {
       "icon": {
@@ -1332,7 +1683,12 @@
         "tags": [
           "favorietje"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1345,8 +1701,8 @@
         "code": 59707
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 34
+      "setId": 1,
+      "iconIdx": 36
     },
     {
       "icon": {
@@ -1361,7 +1717,12 @@
         "tags": [
           "game"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1374,8 +1735,8 @@
         "code": 59708
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 35
+      "setId": 1,
+      "iconIdx": 37
     },
     {
       "icon": {
@@ -1390,7 +1751,12 @@
         "tags": [
           "klok"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1403,8 +1769,8 @@
         "code": 59709
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 36
+      "setId": 1,
+      "iconIdx": 38
     },
     {
       "icon": {
@@ -1429,7 +1795,17 @@
         "tags": [
           "klokje"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1447,8 +1823,8 @@
         "code": 59710
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 37
+      "setId": 1,
+      "iconIdx": 39
     },
     {
       "icon": {
@@ -1465,7 +1841,13 @@
         "tags": [
           "kruis"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1479,8 +1861,8 @@
         "code": 59711
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 38
+      "setId": 1,
+      "iconIdx": 40
     },
     {
       "icon": {
@@ -1499,7 +1881,14 @@
         "tags": [
           "media"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1514,8 +1903,8 @@
         "code": 59712
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 39
+      "setId": 1,
+      "iconIdx": 41
     },
     {
       "icon": {
@@ -1530,7 +1919,12 @@
         "tags": [
           "muziek"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1543,8 +1937,8 @@
         "code": 59713
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 40
+      "setId": 1,
+      "iconIdx": 42
     },
     {
       "icon": {
@@ -1563,7 +1957,14 @@
         "tags": [
           "oog"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1578,8 +1979,8 @@
         "code": 59714
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 41
+      "setId": 1,
+      "iconIdx": 43
     },
     {
       "icon": {
@@ -1596,7 +1997,13 @@
         "tags": [
           "oogje"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1610,8 +2017,8 @@
         "code": 59715
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 42
+      "setId": 1,
+      "iconIdx": 44
     },
     {
       "icon": {
@@ -1626,7 +2033,12 @@
         "tags": [
           "presentatie"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1639,8 +2051,8 @@
         "code": 59716
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 43
+      "setId": 1,
+      "iconIdx": 45
     },
     {
       "icon": {
@@ -1655,7 +2067,12 @@
         "tags": [
           "student"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1668,8 +2085,8 @@
         "code": 59717
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 44
+      "setId": 1,
+      "iconIdx": 46
     },
     {
       "icon": {
@@ -1702,7 +2119,21 @@
         "tags": [
           "taak"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1724,8 +2155,8 @@
         "code": 59718
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 45
+      "setId": 1,
+      "iconIdx": 47
     },
     {
       "icon": {
@@ -1756,7 +2187,20 @@
         "tags": [
           "tasks"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1777,8 +2221,8 @@
         "code": 59719
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 46
+      "setId": 1,
+      "iconIdx": 48
     },
     {
       "icon": {
@@ -1811,7 +2255,21 @@
         "tags": [
           "taskscomplete"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1833,8 +2291,8 @@
         "code": 59720
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 47
+      "setId": 1,
+      "iconIdx": 49
     },
     {
       "icon": {
@@ -1853,7 +2311,14 @@
         "tags": [
           "video"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1868,8 +2333,8 @@
         "code": 59721
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 48
+      "setId": 1,
+      "iconIdx": 50
     },
     {
       "icon": {
@@ -1890,7 +2355,15 @@
         "tags": [
           "vinkaan"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -1906,8 +2379,8 @@
         "code": 59722
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 49
+      "setId": 1,
+      "iconIdx": 51
     },
     {
       "icon": {
@@ -1922,7 +2395,12 @@
         "tags": [
           "vinkuit"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1935,8 +2413,8 @@
         "code": 59723
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 50
+      "setId": 1,
+      "iconIdx": 52
     },
     {
       "icon": {
@@ -1951,7 +2429,12 @@
         "tags": [
           "website"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1964,8 +2447,8 @@
         "code": 59724
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 51
+      "setId": 1,
+      "iconIdx": 53
     },
     {
       "icon": {
@@ -1981,7 +2464,12 @@
         "tags": [
           "aardrijkskunde"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -1994,8 +2482,8 @@
         "code": 59683
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 52
+      "setId": 1,
+      "iconIdx": 54
     },
     {
       "icon": {
@@ -2020,7 +2508,19 @@
         "tags": [
           "biologie"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2040,8 +2540,8 @@
         "code": 59684
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 53
+      "setId": 1,
+      "iconIdx": 55
     },
     {
       "icon": {
@@ -2076,7 +2576,22 @@
         "tags": [
           "duits"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2099,8 +2614,8 @@
         "code": 59685
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 54
+      "setId": 1,
+      "iconIdx": 56
     },
     {
       "icon": {
@@ -2141,7 +2656,26 @@
         "tags": [
           "engels"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2168,8 +2702,8 @@
         "code": 59686
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 55
+      "setId": 1,
+      "iconIdx": 57
     },
     {
       "icon": {
@@ -2186,7 +2720,13 @@
         "tags": [
           "frans"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2200,8 +2740,8 @@
         "code": 59687
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 56
+      "setId": 1,
+      "iconIdx": 58
     },
     {
       "icon": {
@@ -2223,7 +2763,18 @@
         "tags": [
           "fysica"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2242,8 +2793,8 @@
         "code": 59688
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 57
+      "setId": 1,
+      "iconIdx": 59
     },
     {
       "icon": {
@@ -2276,7 +2827,21 @@
         "tags": [
           "geschiedenis"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2298,8 +2863,8 @@
         "code": 59689
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 58
+      "setId": 1,
+      "iconIdx": 60
     },
     {
       "icon": {
@@ -2314,7 +2879,12 @@
         "tags": [
           "godsdienst"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -2327,8 +2897,8 @@
         "code": 59690
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 59
+      "setId": 1,
+      "iconIdx": 61
     },
     {
       "icon": {
@@ -2343,7 +2913,12 @@
         "tags": [
           "informatica"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -2356,8 +2931,8 @@
         "code": 59691
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 60
+      "setId": 1,
+      "iconIdx": 62
     },
     {
       "icon": {
@@ -2378,7 +2953,15 @@
         "tags": [
           "integraleopdrachten"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2394,8 +2977,8 @@
         "code": 59692
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 61
+      "setId": 1,
+      "iconIdx": 63
     },
     {
       "icon": {
@@ -2414,7 +2997,14 @@
         "tags": [
           "lichamelijkeopvoeding"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2429,8 +3019,8 @@
         "code": 59693
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 62
+      "setId": 1,
+      "iconIdx": 64
     },
     {
       "icon": {
@@ -2467,7 +3057,23 @@
         "tags": [
           "maatschappelijkevorming"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2491,8 +3097,8 @@
         "code": 59694
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 63
+      "setId": 1,
+      "iconIdx": 65
     },
     {
       "icon": {
@@ -2507,7 +3113,12 @@
         "tags": [
           "muzikaleopvoeding"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -2520,8 +3131,8 @@
         "code": 59695
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 64
+      "setId": 1,
+      "iconIdx": 66
     },
     {
       "icon": {
@@ -2560,7 +3171,24 @@
         "tags": [
           "natuurwetenschappen"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2585,8 +3213,8 @@
         "code": 59696
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 65
+      "setId": 1,
+      "iconIdx": 67
     },
     {
       "icon": {
@@ -2609,7 +3237,16 @@
         "tags": [
           "nederlands"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2626,8 +3263,8 @@
         "code": 59697
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 66
+      "setId": 1,
+      "iconIdx": 68
     },
     {
       "icon": {
@@ -2648,7 +3285,15 @@
         "tags": [
           "sociaaleconomischeinitiatie"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2664,8 +3309,8 @@
         "code": 59698
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 67
+      "setId": 1,
+      "iconIdx": 69
     },
     {
       "icon": {
@@ -2680,7 +3325,12 @@
         "tags": [
           "spaans"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -2693,8 +3343,8 @@
         "code": 59699
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 68
+      "setId": 1,
+      "iconIdx": 70
     },
     {
       "icon": {
@@ -2709,7 +3359,12 @@
         "tags": [
           "techniek"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -2722,8 +3377,8 @@
         "code": 59700
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 69
+      "setId": 1,
+      "iconIdx": 71
     },
     {
       "icon": {
@@ -2738,7 +3393,12 @@
         "tags": [
           "wiskunde"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -2751,8 +3411,8 @@
         "code": 59701
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 70
+      "setId": 1,
+      "iconIdx": 72
     },
     {
       "icon": {
@@ -2769,7 +3429,13 @@
         "tags": [
           "ww"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -2783,8 +3449,8 @@
         "code": 59702
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 71
+      "setId": 1,
+      "iconIdx": 73
     },
     {
       "icon": {
@@ -2795,7 +3461,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "at-sign"
         ],
@@ -2810,8 +3478,8 @@
         "code": 59648
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 72
+      "setId": 1,
+      "iconIdx": 74
     },
     {
       "icon": {
@@ -2822,7 +3490,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "split-arrow"
         ],
@@ -2837,8 +3507,8 @@
         "code": 59649
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 73
+      "setId": 1,
+      "iconIdx": 75
     },
     {
       "icon": {
@@ -2853,7 +3523,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "increase"
         ],
@@ -2868,8 +3540,8 @@
         "code": 59650
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 74
+      "setId": 1,
+      "iconIdx": 76
     },
     {
       "icon": {
@@ -2881,7 +3553,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "alert"
         ],
@@ -2896,8 +3570,8 @@
         "code": 59651
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 75
+      "setId": 1,
+      "iconIdx": 77
     },
     {
       "icon": {
@@ -2909,7 +3583,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "power-on"
         ],
@@ -2924,8 +3600,8 @@
         "code": 59652
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 76
+      "setId": 1,
+      "iconIdx": 78
     },
     {
       "icon": {
@@ -2938,7 +3614,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "creditcard"
         ],
@@ -2953,8 +3631,8 @@
         "code": 59653
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 77
+      "setId": 1,
+      "iconIdx": 79
     },
     {
       "icon": {
@@ -2965,7 +3643,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "marker",
           "pin"
@@ -2981,8 +3661,8 @@
         "code": 59654
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 78
+      "setId": 1,
+      "iconIdx": 80
     },
     {
       "icon": {
@@ -3013,7 +3693,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "bundle"
         ],
@@ -3031,8 +3713,8 @@
         ]
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 79
+      "setId": 1,
+      "iconIdx": 81
     },
     {
       "icon": {
@@ -3044,7 +3726,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "open"
         ],
@@ -3059,8 +3743,8 @@
         "code": 59656
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 80
+      "setId": 1,
+      "iconIdx": 82
     },
     {
       "icon": {
@@ -3071,7 +3755,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "student"
         ],
@@ -3086,8 +3772,8 @@
         "code": 59657
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 81
+      "setId": 1,
+      "iconIdx": 83
     },
     {
       "icon": {
@@ -3098,7 +3784,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "play"
         ],
@@ -3113,8 +3801,8 @@
         "code": 59658
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 82
+      "setId": 1,
+      "iconIdx": 84
     },
     {
       "icon": {
@@ -3126,7 +3814,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "add-user"
         ],
@@ -3141,8 +3831,8 @@
         "code": 59659
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 83
+      "setId": 1,
+      "iconIdx": 85
     },
     {
       "icon": {
@@ -3155,7 +3845,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "call"
         ],
@@ -3170,8 +3862,8 @@
         "code": 59660
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 84
+      "setId": 1,
+      "iconIdx": 86
     },
     {
       "icon": {
@@ -3182,7 +3874,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "laptop-text"
         ],
@@ -3197,8 +3891,8 @@
         "code": 59661
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 85
+      "setId": 1,
+      "iconIdx": 87
     },
     {
       "icon": {
@@ -3209,7 +3903,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "balance"
         ],
@@ -3224,8 +3920,8 @@
         "code": 59662
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 86
+      "setId": 1,
+      "iconIdx": 88
     },
     {
       "icon": {
@@ -3244,7 +3940,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "checklist"
         ],
@@ -3259,8 +3957,8 @@
         "code": 59663
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 87
+      "setId": 1,
+      "iconIdx": 89
     },
     {
       "icon": {
@@ -3276,7 +3974,10 @@
         "tags": [
           "favorite"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -3287,8 +3988,8 @@
         "code": 59664
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 88
+      "setId": 1,
+      "iconIdx": 90
     },
     {
       "icon": {
@@ -3303,7 +4004,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "share"
         ],
@@ -3318,8 +4021,8 @@
         "code": 59665
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 89
+      "setId": 1,
+      "iconIdx": 91
     },
     {
       "icon": {
@@ -3332,7 +4035,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "phone"
         ],
@@ -3347,8 +4052,8 @@
         "code": 59666
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 90
+      "setId": 1,
+      "iconIdx": 92
     },
     {
       "icon": {
@@ -3360,7 +4065,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "laptop-images"
         ],
@@ -3375,8 +4082,8 @@
         "code": 59667
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 91
+      "setId": 1,
+      "iconIdx": 93
     },
     {
       "icon": {
@@ -3387,7 +4094,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "clock"
         ],
@@ -3402,8 +4111,8 @@
         "code": 59668
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 92
+      "setId": 1,
+      "iconIdx": 94
     },
     {
       "icon": {
@@ -3423,7 +4132,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "task"
         ],
@@ -3438,8 +4149,8 @@
         "code": 59669
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 93
+      "setId": 1,
+      "iconIdx": 95
     },
     {
       "icon": {
@@ -3461,7 +4172,15 @@
           "school",
           "university"
         ],
-        "grid": 0
+        "grid": 0,
+        "colorPermutations": {
+          "255255255125582141": [
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -3480,8 +4199,8 @@
         ]
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 94
+      "setId": 1,
+      "iconIdx": 96
     },
     {
       "icon": {
@@ -3491,7 +4210,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "magnifier",
           "search"
@@ -3507,8 +4228,8 @@
         "code": 59671
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 95
+      "setId": 1,
+      "iconIdx": 97
     },
     {
       "icon": {
@@ -3519,7 +4240,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "print"
         ],
@@ -3534,8 +4257,8 @@
         "code": 59672
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 96
+      "setId": 1,
+      "iconIdx": 98
     },
     {
       "icon": {
@@ -3547,7 +4270,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "laptop-content"
         ],
@@ -3562,8 +4287,8 @@
         "code": 59673
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 97
+      "setId": 1,
+      "iconIdx": 99
     },
     {
       "icon": {
@@ -3581,7 +4306,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "code"
         ],
@@ -3596,8 +4323,8 @@
         "code": 59674
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 98
+      "setId": 1,
+      "iconIdx": 100
     },
     {
       "icon": {
@@ -3610,7 +4337,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "edit"
         ],
@@ -3625,8 +4354,8 @@
         "code": 59675
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 99
+      "setId": 1,
+      "iconIdx": 101
     },
     {
       "icon": {
@@ -3637,7 +4366,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "presentation"
         ],
@@ -3652,8 +4383,8 @@
         "code": 59676
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 100
+      "setId": 1,
+      "iconIdx": 102
     },
     {
       "icon": {
@@ -3665,7 +4396,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "caret"
         ],
@@ -3680,8 +4413,8 @@
         "code": 59677
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 101
+      "setId": 1,
+      "iconIdx": 103
     },
     {
       "icon": {
@@ -3692,7 +4425,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "polpo"
         ],
@@ -3707,8 +4442,8 @@
         "code": 59678
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 102
+      "setId": 1,
+      "iconIdx": 104
     },
     {
       "icon": {
@@ -3729,7 +4464,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "die-keure"
         ],
@@ -3745,8 +4482,8 @@
         "ligatures": "die Keure"
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 103
+      "setId": 1,
+      "iconIdx": 105
     },
     {
       "icon": {
@@ -3756,7 +4493,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "facebook"
         ],
@@ -3771,8 +4510,8 @@
         "code": 59680
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 104
+      "setId": 1,
+      "iconIdx": 106
     },
     {
       "icon": {
@@ -3782,7 +4521,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "twitter"
         ],
@@ -3797,8 +4538,8 @@
         "code": 59681
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 105
+      "setId": 1,
+      "iconIdx": 107
     },
     {
       "icon": {
@@ -3808,7 +4549,9 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "colorPermutations": {},
+        "colorPermutations": {
+          "255255255125582141": []
+        },
         "tags": [
           "pinterest"
         ],
@@ -3823,8 +4566,8 @@
         "code": 59682
       },
       "setIdx": 0,
-      "setId": 5,
-      "iconIdx": 106
+      "setId": 1,
+      "iconIdx": 108
     },
     {
       "icon": {
@@ -3863,9 +4606,9 @@
         "prevSize": 64,
         "code": 59752
       },
-      "setIdx": 1,
-      "setId": 4,
-      "iconIdx": 0
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 109
     },
     {
       "icon": {
@@ -3904,9 +4647,9 @@
         "prevSize": 64,
         "code": 59754
       },
-      "setIdx": 1,
-      "setId": 4,
-      "iconIdx": 1
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 110
     }
   ],
   "height": 1024,
