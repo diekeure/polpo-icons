@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?sf15ka') format('truetype'),
-    url('fonts/polpo.woff?sf15ka') format('woff'),
-    url('fonts/polpo.svg?sf15ka#polpo') format('svg');
+    url('fonts/polpo.ttf?p5b6k9') format('truetype'),
+    url('fonts/polpo.woff?p5b6k9') format('woff'),
+    url('fonts/polpo.svg?p5b6k9#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -372,13 +372,17 @@
 .polpo-pinterest:before {
   content: "\e922";
 }
+.polpo-youtube:before {
+  content: "\e971";
+}
 .polpo-s_logo_sso_button_orange_22x36:before {
   content: "\e968";
+  color: #ff520e;
 }
 .polpo-s_logo_sso_button_orange_22x362:before {
   content: "\e96a";
+  color: #fff;
 }
 .polpo-send:before {
   content: "\e970";
 }
-
