@@ -1,2 +1,2 @@
 # polpo-icons
-icon font for polpo.
+icon font for polpo
