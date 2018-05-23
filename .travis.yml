@@ -2,11 +2,14 @@ branches:
   only:
   - master
 deploy:
-  - provider: npm
-    email: bert.casier@diekeure.be
-    api_key:
-      secure: FPkmPryJI7ELQ9+qynCW4mmGyNzpSYQVvvoa7UT3Jd4Rh6BkSn8o7jpBezJUcTKJaj7a5KQnQtW5Jr0V35MKY+O1sCKJpJiqdIfQQaVnK/91GhuZXTgEleWO0VP3lqTuGgRddlTF1bz+YnHyBaqFn4+4Bj7Du2uJfKET6LVQYAtud2cy61Cn1KZPhPq2L6yFY+EH2C9Jgg54sCebU9iTfpbT/3tl0uBITtYDIiyX1u1tzOeC7E7cs2OOtrh6FR9vdFp9aKb/AO4k+kLOVZZPOQYq6VQr3NHoKP2Q3ZqbOdRwtmnVMrPCCUZ6PlJuH3fLx1xnQ4hE46AASBplaKufhcUMsqd6mJL7MxOIf7HDMn1Q5ZxVIobrVBnGv3J3LOQN0GcQ0sYrw2NOpKc1QHYbb9Kl0SELvFRoWZVqMxuSR7IIgTvBNgdozXg/Q/j1q4WIJp1OD1l2ps5BwCzQuQR7nQd2ffdp0zUVuEV7xDKmz9FCLlmFdR33D7KpS+eElfC7mL4MwEG9fMjFNysr6AlqNdlH7o4D8ubY22rX+Ql728ccjxgR/H/ti3cmtBQ2KnRJ454iOARLT4Sw7CU2dyd4TUvHC6s7L0hBjqBB/yPzbcOgjxq/vA10wVaihEEU11LF031skJF+KgQF7SrT51wSNHbFBRJxKcIuboi1Y51IbtU=
-    skip_cleanup: true
-    on:
-     repo: diekeure/polpo-icons
-     branch: master
+  provider: npm
+  mail: bert.casier@diekeure.be
+  api_key:
+    secure: FPkmPryJI7ELQ9+qynCW4mmGyNzpSYQVvvoa7UT3Jd4Rh6BkSn8o7jpBezJUcTKJaj7a5KQnQtW5Jr0V35MKY+O1sCKJpJiqdIfQQaVnK/91GhuZXTgEleWO0VP3lqTuGgRddlTF1bz+YnHyBaqFn4+4Bj7Du2uJfKET6LVQYAtud2cy61Cn1KZPhPq2L6yFY+EH2C9Jgg54sCebU9iTfpbT/3tl0uBITtYDIiyX1u1tzOeC7E7cs2OOtrh6FR9vdFp9aKb/AO4k+kLOVZZPOQYq6VQr3NHoKP2Q3ZqbOdRwtmnVMrPCCUZ6PlJuH3fLx1xnQ4hE46AASBplaKufhcUMsqd6mJL7MxOIf7HDMn1Q5ZxVIobrVBnGv3J3LOQN0GcQ0sYrw2NOpKc1QHYbb9Kl0SELvFRoWZVqMxuSR7IIgTvBNgdozXg/Q/j1q4WIJp1OD1l2ps5BwCzQuQR7nQd2ffdp0zUVuEV7xDKmz9FCLlmFdR33D7KpS+eElfC7mL4MwEG9fMjFNysr6AlqNdlH7o4D8ubY22rX+Ql728ccjxgR/H/ti3cmtBQ2KnRJ454iOARLT4Sw7CU2dyd4TUvHC6s7L0hBjqBB/yPzbcOgjxq/vA10wVaihEEU11LF031skJF+KgQF7SrT51wSNHbFBRJxKcIuboi1Y51IbtU=
+  skip_cleanup: true
+  on:
+    repo: diekeure/polpo-icons
+    branch: master
+
+
+   
