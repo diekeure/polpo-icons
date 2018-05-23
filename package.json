@@ -1,0 +1,23 @@
+{
+  "name": "@diekeure/polpo-icons",
+  "version": "1.0.0",
+  "description": "Icon font for polpo products",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diekeure/polpo-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "polpo"
+  ],
+  "author": "bert.casier@diekeure.be, antoon.degrom@diekeure.be",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diekeure/polpo-icons/issues"
+  },
+  "homepage": "https://github.com/diekeure/polpo-icons#readme"
+}
