@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-  - "node"
+- node
 branches:
   only:
   - master
@@ -8,11 +8,8 @@ deploy:
   provider: npm
   email: bert.casier@diekeure.be
   api_key:
-    secure: FPkmPryJI7ELQ9+qynCW4mmGyNzpSYQVvvoa7UT3Jd4Rh6BkSn8o7jpBezJUcTKJaj7a5KQnQtW5Jr0V35MKY+O1sCKJpJiqdIfQQaVnK/91GhuZXTgEleWO0VP3lqTuGgRddlTF1bz+YnHyBaqFn4+4Bj7Du2uJfKET6LVQYAtud2cy61Cn1KZPhPq2L6yFY+EH2C9Jgg54sCebU9iTfpbT/3tl0uBITtYDIiyX1u1tzOeC7E7cs2OOtrh6FR9vdFp9aKb/AO4k+kLOVZZPOQYq6VQr3NHoKP2Q3ZqbOdRwtmnVMrPCCUZ6PlJuH3fLx1xnQ4hE46AASBplaKufhcUMsqd6mJL7MxOIf7HDMn1Q5ZxVIobrVBnGv3J3LOQN0GcQ0sYrw2NOpKc1QHYbb9Kl0SELvFRoWZVqMxuSR7IIgTvBNgdozXg/Q/j1q4WIJp1OD1l2ps5BwCzQuQR7nQd2ffdp0zUVuEV7xDKmz9FCLlmFdR33D7KpS+eElfC7mL4MwEG9fMjFNysr6AlqNdlH7o4D8ubY22rX+Ql728ccjxgR/H/ti3cmtBQ2KnRJ454iOARLT4Sw7CU2dyd4TUvHC6s7L0hBjqBB/yPzbcOgjxq/vA10wVaihEEU11LF031skJF+KgQF7SrT51wSNHbFBRJxKcIuboi1Y51IbtU=
+    secure: QNwbtB7AE9xh8vYWzeYr7uHuOKJ3mzbA9dI7clFjqp+Xj4yKusGuPyB8XPK695QvNCm01V0HPF4LexuLCoDgP8WPS/J9JqUEedLP0eInS9juFh7rI8t/XwHJ8CSgFqLsZ+DdAW/RkRiQqZKYtI3lYWzPYS6NiEWS9usQ1HcoPqPCAppSGJbfFR2Ld1p7BxpOHzuORU7nFN8XEQCjlxpVre2c87UsKgAj4vX6LbrpD0GsvePojJEQmcEc0766eKOUWaK2XmCUnCmOSRJ61LOaXHkIkZJRzrlBw/Sp23RGKOiRcOSjsYwex4XMDzJT+prUTr9G9a05h8fDYssZDNkgEjRY+12VLdhUB+CHBEIYdBhUXM5dJ/hLvuI9DtR+lvEo2mNx16DpCCokSbD/6Ob6scrd7I0xmKPpFkmmAxvppgx2sywt9e0BJ/o6T0KpQIbdk4O7+Vr/fW/jMh9M3GhgG337ufsGgG+JxltiOJ+2S4RH4X3GQVGMO6zW0sQ7hZ8OGqkDPayraFsr634MRlTKx+jfm181gP3mO8YWR5qS2RmbzCklIDZuM6DAdSa37kQnUl2UetfRbXLFLgqMy0xGIIT9KTNt1j60zFYEcJ3Ibho7G+49PfAkwurlr1Xf3mdQayjJIKgFjknYgeDHN4ZO7Vppxr4+qw4sEQcu1uOw+L0=    
   skip_cleanup: true
   on:
     repo: diekeure/polpo-icons
     branch: master
-
-
-   
