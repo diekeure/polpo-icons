@@ -1,11 +1,12 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?klzb5') format('truetype'),
-    url('fonts/polpo.woff?klzb5') format('woff'),
-    url('fonts/polpo.svg?klzb5#polpo') format('svg');
+    url('fonts/polpo.ttf?z5yhqu') format('truetype'),
+    url('fonts/polpo.woff?z5yhqu') format('woff'),
+    url('fonts/polpo.svg?z5yhqu#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="polpo-"], [class*=" polpo-"] {
@@ -33,6 +34,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.polpo-comment-question:before {
+  content: "\e97a";
+}
+.polpo-comment-suggestion:before {
+  content: "\e97b";
+}
+.polpo-comment-typo:before {
+  content: "\e97c";
+}
 .polpo-mens-en-samenleving:before {
   content: "\e978";
 }
