@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'polpo';
   src:
-    url('fonts/polpo.ttf?3fs6vu') format('truetype'),
-    url('fonts/polpo.woff?3fs6vu') format('woff'),
-    url('fonts/polpo.svg?3fs6vu#polpo') format('svg');
+    url('fonts/polpo.ttf?fyfcwo') format('truetype'),
+    url('fonts/polpo.woff?fyfcwo') format('woff'),
+    url('fonts/polpo.svg?fyfcwo#polpo') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -34,6 +34,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.polpo-natuur-ruimte-techniek-lg:before {
+  content: "\e97f";
+}
+.polpo-natuur-ruimte-techniek:before {
+  content: "\e980";
+}
 .polpo-beeld:before {
   content: "\e97d";
 }
